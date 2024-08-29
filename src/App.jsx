@@ -3,7 +3,7 @@ import Banner from "./components/Banner";
 import Buttons from "./components/Buttons";
 import Table from "./components/Table";
 import satData from "./components/satData";
-import "./app.css";
+import "./App.css";
 import "./components/styling.css";
 
 function App() {
